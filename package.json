@@ -2,10 +2,8 @@
   "name": "TravisDemo",
   "description": "learn to travis",
   "author": "fos",
-  "version": "0.0.1",
-  "scripts": {
-    "test": "./node_modules/jshint/bin/jshint travisCIdemo.js"
-  },
+  "version": "0.0.1"
+}
   "devDependencies": {
     "mocha": "^2.3.3",
     "chai": "^3.4.1"
